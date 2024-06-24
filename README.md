@@ -4,7 +4,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- I’m currently working as a Software Engineer developing frontend and backend web applications in Huawei Egypt Office.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I’m currently working as a Software Engineer developing frontend and backend web applications at Huawei Egypt Office.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about: Software Engineering , Frontend ReactJS  
 - 📬Contact me by Email: kholoudanwar97@gmail.com
 - 🔥 Check my Experience : https://shorturl.at/CQ129
